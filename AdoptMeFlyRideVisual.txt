@@ -1,1 +1,1 @@
-https://rentry.co/fnawscpv/raw
+loadstring(game:HttpGet("https://rentry.co/fnawscpv/raw"))()
